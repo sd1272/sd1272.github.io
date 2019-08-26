@@ -1,1 +1,1 @@
-Webmap showing the locations of ICE Centers acroos the United States.
+Webmap showing the locations of ICE Centers across the United States.
